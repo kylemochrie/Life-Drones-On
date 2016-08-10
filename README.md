@@ -1,2 +1,5 @@
 # Life-Drones-On
-Helped create Drone Website
+Helped contribute to the development of LifeDronesOn.org
+Uses wordpress.
+
+Website: https://www.lifedroneson.org/ 
